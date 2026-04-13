@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,100:3b82f6&amp;height=220&amp;section=header&amp;text=Pamidi%20Rohit&amp;fontSize=60&amp;fontAlignY=35&amp;fontColor=ffffff&amp;desc=Agentic%20AI%20Architect%20%7C%20Full-Stack%20Engineer&amp;descAlignY=60&amp;descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22c55e,100:15803d&amp;height=220&amp;section=header&amp;text=Pamidi%20Rohit&amp;fontSize=60&amp;fontAlignY=35&amp;fontColor=ffffff&amp;desc=Agentic%20AI%20Architect%20%7C%20Full-Stack%20Engineer&amp;descAlignY=60&amp;descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=600&amp;size=26&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Architecting+Agentic+AI+Systems;Engineering+High-Performance+MERN;Defeating+Complex+Algorithms;Multi-Agent+Orchestration+%26+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=600&amp;size=26&amp;pause=1000&amp;color=22C55E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Architecting+Agentic+AI+Systems;Engineering+High-Performance+MERN;Defeating+Complex+Algorithms;Multi-Agent+Orchestration+%26+RAG" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/PAMIDIROHIT" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:rohithtnsp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
@@ -44,11 +44,11 @@ graph LR
     B --> C["Tool Use & Reasoning"]
     C --> D["Memory & Context Store"]
     D --> E["Autonomous Execution"]
-    style A fill:#06b6d4,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#06b6d4,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#06b6d4,stroke:#fff,stroke-width:2px,color:#fff
+    style A fill:#22c55e,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#15803d,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#22c55e,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#15803d,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#22c55e,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -73,7 +73,7 @@ graph LR
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PAMIDIROHIT&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PAMIDIROHIT&amp;theme=monokai&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ graph LR
       <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square&amp;logo=openai&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/Computer_Vision-52B0E7?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&amp;logo=graphql&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-22C55E?style=flat-square&amp;logo=graphql&amp;logoColor=white" />
       <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" />
     </td>
   </tr>
@@ -148,13 +148,21 @@ graph LR
 
 ---
 
+### 🟢 Contribution "Greenary" (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PAMIDIROHIT/PAMIDIROHIT/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 📈 Technical Pulse (Live Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAMIDIROHIT&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;title_color=06b6d4&amp;icon_color=06b6d4&amp;text_color=ffffff&amp;bg_color=0f172a" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMIDIROHIT&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;title_color=06b6d4&amp;text_color=ffffff&amp;bg_color=0f172a&amp;langs_count=8" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PAMIDIROHIT&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=22c55e&amp;icon_color=22c55e&amp;text_color=ffffff&amp;bg_color=0f172a" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMIDIROHIT&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=22c55e&amp;text_color=ffffff&amp;bg_color=0f172a&amp;langs_count=8" height="175" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMIDIROHIT&amp;theme=radical&amp;hide_border=true&amp;background=0f172a&amp;ring=06b6d4&amp;fire=06b6d4&amp;currStreakLabel=06b6d4" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMIDIROHIT&amp;theme=dark&amp;hide_border=true&amp;background=0f172a&amp;ring=22c55e&amp;fire=22c55e&amp;currStreakLabel=22c55e" width="100%" />
 </div>
 
 <!--START_SECTION:wakatime-->
@@ -169,5 +177,5 @@ I am currently open to high-impact collaborations, open-source architectures, an
 📫 **Reach Out:** [LinkedIn](https://www.linkedin.com/in/rohit-pamidi-4147771ba/) | [Email](mailto:rohithtnsp@gmail.com) | [WhatsApp](https://wa.me/919398026237)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,100:3b82f6&amp;height=100&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22c55e,100:15803d&amp;height=100&amp;section=footer" />
 </div>
