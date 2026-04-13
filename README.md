@@ -27,14 +27,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PAMIDIROHIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
----
 
 ### ⚡ Technical Arsenal
 
@@ -79,51 +72,4 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
----
 
-### 🏗️ High-Impact Projects
-
-| Project | Tech Stack | Impact & Core Metrics |
-| :--- | :--- | :--- |
-| **🍅 Tomato Food Delivery** | `Node.js` `React.js` `Redis` `LangChain` | Microservices handling 500+ daily orders with WebSockets. Built NLP LangChain AI chatbot achieving **60% workload reduction**. Engineered Redis caching layer; API latency dropped **800ms to 150ms**. |
-| **🎬 CineMatch AI** | `TypeScript` `Next.js 14` `TF-IDF NLP` | Real-time AI engine crunching **10,000+ movies at 95% recommendation accuracy**. TMDB caching layer reduced external API hits by **70%**. |
-| **❤️ Heart Disease ML System** | `Python` `Flask` `AWS` `Docker` | Achieved **90%+ accuracy** (Random Forest/Gradient Boosting). Dockerized CI/CD deployed on AWS reduced prediction latency by **40%**. |
-| **✈️ WanderLust Travel Platform** | `Node.js` `MongoDB` `Docker` | Full booking engine architecture managing secure sessions and dynamic listings. Integrated an onboard property AI chatbot. |
-
----
-
-### 📊 Live Analytics & Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAMIDIROHIT&show_icons=true&hide_border=true&hide_title=true&theme=catppuccin_mocha&bg_color=00000000&text_color=cdd6f4&icon_color=89b4fa&title_color=89b4fa" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMIDIROHIT&theme=catppuccin_mocha&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
-</div>
-
-<!-- WAKATIME_METRICS_START -->
-<!-- WAKATIME_METRICS_END -->
-
-<div align="center">
-  <br/>
-  <a href="https://leetcode.com/PAMIDIROHIT">
-    <img src="https://leetcard.jacoblin.cool/PAMIDIROHIT?theme=catppuccin_mocha&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAMIDIROHIT/PAMIDIROHIT/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAMIDIROHIT/PAMIDIROHIT/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PAMIDIROHIT/PAMIDIROHIT/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🔭 Current Focus
-
-* Engineering a **production-level RLHF alignment pipeline**.
-* Architecting an **interactive real-time computer vision gesture recognition system**.
