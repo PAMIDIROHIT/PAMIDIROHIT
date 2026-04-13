@@ -146,29 +146,7 @@ graph LR
   </tr>
 </table>
 
----
 
-### 🟢 Contribution "Greenary" (Snake Game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PAMIDIROHIT/PAMIDIROHIT/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 📈 Technical Pulse (Live Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAMIDIROHIT&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=22c55e&amp;icon_color=22c55e&amp;text_color=ffffff&amp;bg_color=0f172a" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAMIDIROHIT&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=22c55e&amp;text_color=ffffff&amp;bg_color=0f172a&amp;langs_count=8" height="175" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAMIDIROHIT&amp;theme=dark&amp;hide_border=true&amp;background=0f172a&amp;ring=22c55e&amp;fire=22c55e&amp;currStreakLabel=22c55e" width="100%" />
-</div>
-
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
-
----
 
 ### 🌐 Let's Build the Future
 
